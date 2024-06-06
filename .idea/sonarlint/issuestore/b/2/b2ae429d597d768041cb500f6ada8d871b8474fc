@@ -1,0 +1,11 @@
+
+Â
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(÷¬®“þÿÿÿÿ8Ø¬Åñþ1J$22debae9-2b6f-410b-94a8-25220364826b
+Â
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ä“æ¢øÿÿÿÿ8Ø¬Åñþ1J$a3075133-8957-4853-b413-49d37113580e
+{
+java:S1612"9Replace this lambda with method reference 'Math::random'.(ºåÈ?8Ø¬Åñþ1J$fb986ecb-3b00-4027-be89-783a6383218f
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8úÌÆñþ1
+a
+java:S1128"?Remove this unused import 'java.util.concurrent.ConcurrentMap'.(˜ˆŽ¶úÿÿÿÿ8úÌÆñþ1
