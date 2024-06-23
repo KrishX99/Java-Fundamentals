@@ -25,3 +25,13 @@ U
 %src/main/java/impl/StringModImpl.java,4\f\4f5310394582888e0699d13a55dc4b25d45cbc80
 _
 /src/main/java/impl/FunctionalInterfaceImpl.java,b\2\b2ae429d597d768041cb500f6ada8d871b8474fc
+N
+src/main/java/impl/Animal.java,6\f\6f2035cc2bf0b1cadb11bd6fc112fd498fd2cab2
+S
+#src/main/java/impl/PairGeneric.java,7\3\732ba9f7eb1d12e9f6e041ce6fb4ba64d0e678ac
+R
+"src/main/java/impl/StreamImpl.java,0\b\0b7dc5e600fa88ab41a23c8af7bfc3cd2624ec8d
+U
+%src/main/java/constant/Operation.java,b\a\badc6dbf0e89e7826b30d085c13651fc1883e4f0
+Y
+)src/main/java/constant/OperationType.java,1\9\19f50b28133eed13f28a2e9f82a01232073e273c

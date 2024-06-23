@@ -1,0 +1,13 @@
+
+Â
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ä“æ¢øÿÿÿÿ8êœ•£„2J$c541f7a2-33a9-4305-9cdc-123caa654a68
+Â
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(÷¬®“þÿÿÿÿ8êœ•£„2J$c5206cd4-bd3b-4420-932c-9466180b3662
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(Çè›˜8êœ•£„2J$28ef10cb-453e-42ae-bda9-c6946107f02b
+Â
+java:S62043"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ðÿó–ýÿÿÿÿ8êœ•£„2J$a2d9138d-612b-43f0-9cb5-6626659cd1dd
+U
+java:S1128"3Remove this unused import 'jdk.dynalink.Operation'.(¦ÝçŒüÿÿÿÿ8ƒ…Š¤„2
+Y
+java:S1128	"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8„…Š¤„2
